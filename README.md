@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @zh60232
-- 👀 I’m interested in ADAS
+- 👀 I’m interested in ADAS/AD.
 - 🌱 I’m currently learning ADAS/AD.
 - 💞️ I’m looking to collaborate on ADAS/AD.
 
